@@ -1,0 +1,22 @@
+{
+  "name": "genshin-planner-mern-remake",
+  "version": "1.0.0",
+  "description": "A Remake of my Genshin Planner app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LapizJusoh/genshin-planner-mern-remake.git"
+  },
+  "author": "LapizJusoh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LapizJusoh/genshin-planner-mern-remake/issues"
+  },
+  "homepage": "https://github.com/LapizJusoh/genshin-planner-mern-remake#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
